@@ -117,13 +117,8 @@ CREATE TABLE flashcards (
 - Ensure the GitHub repository URL is correctly updated while cloning.  
 
 For any issues, open an issue in the GitHub repository.
-```
----
 
-### **Why These Changes?**
-✅ **Improved Readability** – Code blocks are correctly formatted using ` ```sql ` for SQL queries and ` ```bash ` for terminal commands.  
-✅ **Better Structure** – Removed unnecessary lines and separators while keeping instructions clear and concise.  
-✅ **Fixed Syntax Errors** – Previously, `sql` was written before queries instead of using proper code blocks.  
-✅ **More Professional Look** – The README is structured like a professional open-source project documentation.  
 
-This version is **clean, easy to read, and properly formatted** for GitHub! 🚀 Let me know if you need any more modifications.
+
+
+
