@@ -14,8 +14,8 @@ and flashcards. Users can register, take quizzes on various topics, view their s
 - Responsive and user-friendly interface  
 
 ## Technologies Used  
-- **Frontend:** HTML, CSS, JavaScript  
-- **Backend:** Java (Servlets, JDBC)  
+- **Frontend:** HTML, CSS
+- **Backend:** PHP  
 - **Database:** MySQL (phpMyAdmin)  
 - **Server:** Apache Tomcat  
 - **Version Control:** Git & GitHub  
@@ -26,8 +26,7 @@ and flashcards. Users can register, take quizzes on various topics, view their s
 
 ### **1. Install Required Software**  
 Ensure the following software is installed:  
-- [XAMPP](https://www.apachefriends.org/download.html) (For MySQL & Apache Server)  
-- [Java JDK](https://www.oracle.com/java/technologies/javase-downloads.html)  
+- [XAMPP](https://www.apachefriends.org/download.html) (For MySQL & Apache Server)   
 - [Apache Tomcat](https://tomcat.apache.org/download-90.cgi)  
 - [Git](https://git-scm.com/downloads)  
 
